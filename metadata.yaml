@@ -1,0 +1,45 @@
+_repo: Hulme-s-Journal-1818-19-Flower-s-Letters-from-Lexington-and-the-Illinois-1819-Flower-s-Letter__48119
+contributor:
+  creator:
+    editor:
+      agent_name: Thwaites, Reuben Gold
+      alias: Thwaites, R. G. (Reuben Gold)
+      birthdate: 1853
+      deathdate: 1913
+      gutenberg_agent_id: '33780'
+      url: http://www.gutenberg.org/2009/agents/33780
+creator:
+  authors:
+  - agent_name: Flower, Richard
+    deathdate: &id001 1829
+    gutenberg_agent_id: '32020'
+    url: http://www.gutenberg.org/2009/agents/32020
+  - agent_name: Woods, John
+    deathdate: *id001
+    gutenberg_agent_id: '40634'
+    url: http://www.gutenberg.org/2009/agents/40634
+  - agent_name: Hulme, Thomas
+    gutenberg_agent_id: '39466'
+    url: http://www.gutenberg.org/2009/agents/39466
+description: ''
+gutenberg_issued: '2015-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48119'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Early western travels, 1748-1846, v. 10
+subjects:
+- !lcsh 'Frontier and pioneer life -- Illinois'
+- !lcsh 'Edwards County (Ill.)'
+- !lcsh 'Illinois -- Description and travel'
+- !lcc 'F516'
+- !lcc 'F590.3'
+- !lcsh 'Albion (Ill.) -- History'
+- !lcsh 'Lexington (Ky.) -- History'
+title: Hulme's Journal, 1818-19; Flower's Letters from Lexington and the Illinois,
+  1819; Flower's Letters from the Illinois, 1820-21; and Woods's Two Years' Residence,
+  1820-21
+url: http://www.gutenberg.org/ebooks/48119
