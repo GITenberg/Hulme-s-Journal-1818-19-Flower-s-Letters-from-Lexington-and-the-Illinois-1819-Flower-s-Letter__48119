@@ -1,4 +1,5 @@
 _repo: Hulme-s-Journal-1818-19-Flower-s-Letters-from-Lexington-and-the-Illinois-1819-Flower-s-Letter__48119
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,20 +9,25 @@ contributor:
       deathdate: 1913
       gutenberg_agent_id: '33780'
       url: http://www.gutenberg.org/2009/agents/33780
+covers:
+- cover_type: archival
+  image_path: 48119-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Flower, Richard
-    deathdate: &id001 1829
+    deathdate: 1829
     gutenberg_agent_id: '32020'
     url: http://www.gutenberg.org/2009/agents/32020
   - agent_name: Woods, John
-    deathdate: *id001
+    deathdate: 1829
     gutenberg_agent_id: '40634'
     url: http://www.gutenberg.org/2009/agents/40634
   - agent_name: Hulme, Thomas
     gutenberg_agent_id: '39466'
     url: http://www.gutenberg.org/2009/agents/39466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48119#Hulme-s-Journal-1818-19-Flower-s-Letters-from-Lexington-and-the-Illinois-1819-Flower-s-Letter_
 gutenberg_issued: '2015-01-31'
 gutenberg_type: Text
 identifiers:
